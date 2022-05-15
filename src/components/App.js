@@ -207,7 +207,8 @@ function App() {
 						<Col md={5} lg={4} xl={5} xxl={4}>
 							{revealTime !== 0 && <Countdown date={currentTime + (revealTime - currentTime)} className='countdown mx-3' />}
 							<p className='text'>
-								By attending the masterclass, you'll learn how to generate NFT images, upload to IPFS, create your NFT contract, and use OpenSea!
+								Mint your NFT. Connect Your Wallet and be surprised.<br/>
+								You might recive a rare one!
 							</p>
 							<a href="#about" className='button mx-3'>Learn More!</a>
 						</Col>
